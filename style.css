@@ -1,0 +1,19 @@
+.container {
+    border-radius: 40px;
+    margin: 20px;
+    padding: 30px;
+    width: 90vw;
+    text-align: center;
+    background-color: #e0dee0;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.img {
+    height: 50vh;
+}
